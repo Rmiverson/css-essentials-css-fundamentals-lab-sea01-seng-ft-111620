@@ -17,5 +17,6 @@ img {
 
 #details {
   display: flex;
+  margin: auto;
   background-color: red;
 }
