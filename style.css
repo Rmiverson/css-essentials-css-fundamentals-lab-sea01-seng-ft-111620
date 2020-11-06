@@ -25,3 +25,8 @@ img {
   margin-left: 2rem;
   margin-right: 2rem;
 }
+
+#details {
+  margin: auto;
+  width: 80%;
+}
