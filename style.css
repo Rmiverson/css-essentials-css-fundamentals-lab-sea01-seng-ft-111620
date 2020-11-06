@@ -42,4 +42,7 @@ nav {
 
 nav > a {
   margin: .5rem;
+  text-decoration: none;
 }
+
+
