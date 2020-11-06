@@ -17,6 +17,6 @@ img {
 
 #details {
   display: flex;
-  margin: auto;
+  justify-content: space-evenly;
   background-color: red;
 }
