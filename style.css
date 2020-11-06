@@ -48,4 +48,6 @@ nav > a {
   color: white;
 }
 
-
+nav > a:hover {
+  box-shadow: sh;
+}
