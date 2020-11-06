@@ -43,7 +43,7 @@ nav {
 nav > a {
   margin: .5rem;
   text-decoration: none;
-  background-color: rgba(5,5,5,.25);
+  background-color: rgb(5,5,5) rgba(5,5,5,.25);
   padding: .25rem;
 }
 
