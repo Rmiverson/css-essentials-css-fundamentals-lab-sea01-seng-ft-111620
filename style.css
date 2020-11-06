@@ -21,6 +21,6 @@ img {
   background-color: red;
 }
 
-div#details {
+#details > div {
   margin: 2em;
 }
