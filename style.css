@@ -23,6 +23,7 @@ img {
 
 #details > div {
   width: 25%;
+  text-align: center;
 }
 
 #featured-property {
