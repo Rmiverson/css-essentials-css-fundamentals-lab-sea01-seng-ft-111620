@@ -34,3 +34,8 @@ img {
 #featured-property > figure {
   text-align: center;
 }
+
+nav {
+  display: flex;
+  
+}
