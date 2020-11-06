@@ -39,3 +39,7 @@ nav {
   display: flex;
   justify-content: center;
 }
+
+nav > a {
+  margin: .5rem;
+}
