@@ -30,3 +30,7 @@ img {
   margin: auto;
   width: 80%;
 }
+
+#featured-property > figure {
+  text-align: center;
+}
