@@ -22,8 +22,8 @@ img {
 }
 
 #details > div {
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin: auto;
+  width 2.5rem;
 }
 
 #featured-property {
