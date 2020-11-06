@@ -20,3 +20,7 @@ img {
   justify-content: center;
   background-color: red;
 }
+
+id#details {
+  margin: 2em;
+}
